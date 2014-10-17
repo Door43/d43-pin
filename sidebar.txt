@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pin:home|Door43 (pin)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pin|d43-pin repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pin/archive/master.zip|d43-pin.zip]]
+
+**Recent Changes**
+{{changes>ns = pin}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pin|Ethnologue data]]
+
